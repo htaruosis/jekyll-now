@@ -10,6 +10,7 @@ permalink: /future-posts/
 * Separated bicycle paths in new precinct structure plans
 * Seabrook Traffic Calming Project community consultation
 * Greening the Pipeline pilot park
+* Recycling 2.0 - a look at household waste collections in Melbourne
 * Can I ride my bike here?
 * The next generation of street lights
 * Thanks for 30... or no thanks?
@@ -17,4 +18,7 @@ permalink: /future-posts/
 * I've crashed into a light pole, what do I do?
 * A look at public housing in Broadmeadows
 * Sturt Street corridor works by Regional Roads Victoria
+* Wayfinding signage across Melbourne
+* Strategic Cycling Corridors in Melbourne's southeast
+
 *More to come*
