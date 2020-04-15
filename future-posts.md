@@ -18,7 +18,7 @@ permalink: /future-posts/
 * I've crashed into a light pole, what do I do?
 * A look at public housing in Broadmeadows
 * Sturt Street corridor works by Regional Roads Victoria
-* Wayfinding signage across Melbourne
+* Standardising wayfinding signage across Melbourne
 * Strategic Cycling Corridors in Melbourne's southeast
 
 *More to come*
